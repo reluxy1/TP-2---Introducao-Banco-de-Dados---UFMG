@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import os
-pip install plotly
+%pip install plotly
 import plotly.express as px
 import plotly.graph_objects as go
 
